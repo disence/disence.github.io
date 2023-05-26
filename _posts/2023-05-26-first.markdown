@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Theme: The Present is a Present | 好礼知时节"
+date:   2023-05-08 07:04:53 +0000
+categories: jekyll update
+tag: [bee]
+toc: false
+---
+
+With a serial stereotyped labels of Panda, Sichuan Cuisine, Mahjong, Carpe Diem and so on, No doubt Chengdu has multiple identities, on one hand it is an inclusive wonderland for long, on the other hand it is well known oriental city around the globe. As such, we believe Chengdu is a mirror image of the World in place!!!
+
+Nowadays, the pace of shift is accelerating to distract people's attentions from opting out collective thrivability, fast or slow, heritage or edges, native or exotic, naturalism or urbanization, technology innovation or public policies, it is high time to be realistic and optimistic, this year TEDxChengdu will blend the historical wisdom and future hope along the time trace, in order to explore Zeitgeist around the theme of present, with its dual meanings.
+
+“熊猫、川菜、麻将、及时行乐”，这是外界对于成都标签化的刻板印象。这座城市无疑拥有多重脸谱，自古以来，成都便是包容富庶的乐活之地，自得其所；纵观全球，成都更是东方名城的中华样本，不偏不倚；我们相信：深读成都，即是宽读世界。
+
+快与慢、非遗与时尚、民族风与舶来品、科技创新与公共政策、大自然力量与城市化浪潮，由点及面、以小见大，作为 TEDxChengdu 的首次年度大会，我们将沿着时间的脉络，溯往矣、追来者，探讨“当下”的时代精神。
+
+本次 TEDxChengdu 大会的英文主题：The Present is a Present，取 Present 的双关意义，“当下的”与“礼物”。中⽂主题“好礼知时节”，取英⽂主题的“时间”与“礼物”意象，演生于唐朝著名文⼈杜甫描述锦官城（即古时成都）作品《春夜喜⾬》中的诗句。
+
+我们将围绕 TED “广传创见”的核心理念，邀请世界各地来自科技、教育、文创、商业、设计、娱乐等领域近 20 组讲者与表演者，寄望在农历秋分时节，为生活在及向往天府之国的人们，寻得一份仪式性的表达，分享更多的乐观主义情绪，以此作礼，殷盼收悉！
+
+# DIFFER HE 何异
+Psychological consultant 心理咨询师
+for the Post 512 Aid Station, renown Internet Company and Fortune 500. Now he is one consultant in ZENGQIFENG Psychology Workshop. Furthermore, he is the author of “Why Sichuanese Are So Optimistic”, which is popular online. This time, from the perspective of social psychology, he would like to guide us to be optimistic like a Sichuanese. 
+
+他拥有逾十年的心理咨询执业经验，累计咨询时长超过五千小时。曾先后服务于 512 灾后驻点、知名互联网公司与世界五百强企业，现就职于曾奇峰心理工作室。他是网络红文「四川人为什么迷之乐观」的作者，这次他将从社会心理学等角度引导大家学习，如何像四川人一样乐观。
+
+# GUANGYA QIN 卿光亚
+Educator / Filmmaker 教育者
+Twenty-five years ago, he founded the Sichuan Dujiangyan Guangya School and has been the President so far. Prior to this, he had worked as a professional violinist, television producer. And his works of The Discovery and Excavation Sanxingdui, Chen Mapo Tofu, The Holiday of Baima People, Ten Years of Tianfu, have received important awards. He is also active in many Chinese and foreign cultural, educational exchanges and social activities. Through a variety of life experience, he will share the wisdom on how to raise a kid from birth. 
+
+二十五年前他创办了四川都江堰光亚学校并任校长至今，在此之前，他曾先后做过专业小提琴手，电视编剧及导演，其中作品「三星堆发现、发掘」、「陈麻婆豆腐」、「白马人的节日」、「天府十年」等曾获得重要奖项。他也活跃于诸多中外文化教育交流相关的社会活动。他将透过丰富多样的人生阅历，分享对于「三岁看大」的思考。
+
+
+# JEFF XIONG 熊节
+IT expert 总监咨询师
+He is one director consultant of ThoughtWorks, and holds MBA from Liverpool University, as well as over 15 years’ rich working experience in IT industry, focusing on information construction of finance, government, telecom, logistic and other fields. In recent years, he has concentrated on applying IT to build public health system for the poorest communities around the globe, whilst he began to feel the the complexity of interaction between technology and society. He is also the Chinese translator for “Reconstruction” , “Software Craftsmanship” and so on. This time he is willing to spark our discussion on “Sharing Economy”. 
+
+他现任 ThoughtWorks 总监咨询师，拥有利物浦大学 MBA 学位，并在 IT 领域有超过十五年的丰富从业经验，专注于金融、政府、电信、物流等行业的信息化建设。最近几年，他致力于用 IT 技术在全世界最贫困的地区建设公共卫生体系，推动当地社区正向发展，并因此对于技术与社会的复杂关系与互动产生了浓厚兴趣。同时他曾翻译了「重构」、「软件工艺」等多本软件研发领域的重要著作。他将激发我们在「分享经济」领域的思想碰撞。
+
