@@ -23,6 +23,13 @@ Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, na
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
+## Dongliang Xu 许东亮
+照明设计师
+栋梁国际照明设计中心设计主持人，北京建筑大学 ADA 研究中心光环境设计研究所主持人。他也是 2017 年金砖会议期间厦门夜景提升总设计师，2018 年青岛“上合会议”期间城市照明提升总设计师。他主持的哈尔滨大剧院建筑照明设计荣获 IES 卓越奖。
+Huibin Liu 刘惠斌
+游戏制作人，独立游戏活动组织者
+艾空未来创始人，神亚游戏制作人，“游戏伙伴”活动发起人，游戏作品包括《原谅帽大作战》《天天飞喵》等。2002 年参与了中国最早的独立游戏团队金点工作室作品《圣剑英雄传II》的制作。迄今，他参与或指导过《QQ农场》《我叫MT》《斩魂》《英雄三国》《倩女幽魂》《乱斗西游》《梦幻西游》等部分美术设计 。2015 年作为 CiGA 中国独立游戏联盟的联合发起人起，一直致力于推动中国独立游戏和 GameJam 游戏创作活动在国内的传播。此外，他也是两个孩子的父亲。
+
 ## Inline HTML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
