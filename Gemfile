@@ -3,6 +3,13 @@
 source "https://rubygems.org"
 
 gem "jekflix"
+gem "kramdown"
+gem "kramdown-parser-gfm"
+gem "rouge"
+gem "jekyll"
+gem "jekyll-paginate"
+gem "jekyll-paginate-content"
+gem "json"
 
 group :test do
   gem "html-proofer", "~> 3.18"
