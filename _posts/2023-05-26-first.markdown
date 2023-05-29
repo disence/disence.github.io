@@ -2,9 +2,15 @@
 layout: post
 title:  "Theme: The Present is a Present | 好礼知时节"
 date:   2023-05-08 07:04:53 +0000
-categories: jekyll update
-tag: [bee]
-toc: false
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
+category: css
+tags:
+  - css
+  - tips
+author: mranderson
 ---
 
 With a serial stereotyped labels of Panda, Sichuan Cuisine, Mahjong, Carpe Diem and so on, No doubt Chengdu has multiple identities, on one hand it is an inclusive wonderland for long, on the other hand it is well known oriental city around the globe. As such, we believe Chengdu is a mirror image of the World in place!!!
