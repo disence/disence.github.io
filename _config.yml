@@ -19,13 +19,13 @@ timezone: Asia/Chongqing
 # ↓ --------------------------
 
 # Site Settings
-name: TEDxchengdu
-title: TEDxchengdu
-description: the posting for TEDxchengdu
+name: TEDxChengdu
+title: TEDxChengdu
+description: the posting for TEDxChengdu
 tags:
   - blog
   - template
-  - theme
+  - ted
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
