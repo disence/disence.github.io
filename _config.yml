@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekflix
+theme: TED
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
@@ -19,15 +19,13 @@ timezone: Asia/Chongqing
 # ↓ --------------------------
 
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: TEDxchengdu
+title: TEDxchengdu
+description: the posting for TEDxchengdu
 tags:
   - blog
   - template
-  - jekyll
   - theme
-  - netlify
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
@@ -44,12 +42,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+# github_username: github_username
+# facebook_username: facebook_username
+# twitter_username: twitter_username
+# instagram_username: instagram_username
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 # Posts Settings
 show_time_bar: true
