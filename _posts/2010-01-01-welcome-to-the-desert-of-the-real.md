@@ -6,7 +6,8 @@ subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-                 https://res.cloudinary.com/diatuun2n/image/upload/v1685440464/dceec84f73059e65d5e2f82de00c866b_ptojqx.jpg
+image: >-
+  https://res.cloudinary.com/diatuun2n/image/upload/v1685440464/dceec84f73059e65d5e2f82de00c866b_ptojqx.jpg
 category: blog
 tags:
   - welcome
